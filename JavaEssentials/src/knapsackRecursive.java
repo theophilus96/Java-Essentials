@@ -37,7 +37,7 @@ public class knapsackRecursive {
             System.out.println("pointer : " + pointer);
             System.out.println("capacity : " + capacity);
             // System.out.println("temp1 : " + temp1);
-            // System.out.println("temp2 : " + temp2);
+            // System.out.println("temp2 : " + temp2);`
 
             result = Math.max(temp1, temp2);
             System.out.println("Result : " + result);
